@@ -10,5 +10,3 @@ Ask me about:
 - frontend development
 - UX
 - rock climbing!
-
-If you'd like to get in touch, you can reach out to me on LinkedIn: https://www.linkedin.com/in/coxjenna/
