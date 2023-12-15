@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-I'm a Jr. Fullstack Developer with interests in native app development and DevOps. I'm currently working in the React ecosystem and enjoy working with Next.js.  
+![Header](https://github.com/Jenna59/Jenna59/assets/22760192/8e2fcfc9-30de-4db7-b6b4-518ec3573d7c)
 
 I have experience working in banking, insurance, and B2B marketplaces. I'm currently seeking collaborations in the fintech sector and on SaaS projects. I enjoy crafting solutions to support small and medium-sized businesses and local enterprises.
 
