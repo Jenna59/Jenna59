@@ -2,7 +2,7 @@
 
 My endeavours in tech began with a roommate who told me that she would sometimes put different Linux distros on her old laptop for fun. _Hmmn..._ 🤔, I thought, _I wonder how hard it could be?_ A few tutorials and a partitioned hard drive later, I had successfully turned my old Windows machine into a dual boot with Linux Mint. This small exercise caused me to think more deeply about how the software programs and websites I used every day were made. I knew what they looked like on the surface, at the user interface level, but how was that user interface made? And surely there had to be databases somewhere? My curiosity led to a few HTML and CSS courses on Coursera and eventually a college program that gave me exposure to user experience design, as well as frontend and backend development. Along the way, I also gained an ongoing interest in DevOps. I have experience working in banking, insurance, and B2B marketplaces. I enjoy crafting solutions to support small and medium-sized businesses and local enterprises.
 
-Ask me about: 
+### Ask Me About: 
 - frontend development
 - web accessibility
 - user experience design
